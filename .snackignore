@@ -1,0 +1,7 @@
+create_files.py
+run_write.py
+TIMERS_FORM.md
+package-lock.json
+.expo/
+.git/
+components/AssetExample.js
