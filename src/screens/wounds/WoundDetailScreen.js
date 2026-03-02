@@ -1,0 +1,1 @@
+import React from 'react'; import Screen from '../../components/layout/Screen'; import Text from '../../components/ui/Text'; export default function WoundDetailScreen() { return <Screen><Text>Wound Detail</Text></Screen>; }
